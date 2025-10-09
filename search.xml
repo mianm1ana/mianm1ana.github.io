@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>示例文章标题</title>
+      <link href="/2025/10/09/example-post/"/>
+      <url>/2025/10/09/example-post/</url>
+      
+        <content type="html"><![CDATA[<h1 id="示例文章标题"><a href="#示例文章标题" class="headerlink" title="示例文章标题"></a>示例文章标题</h1><p>这是文章的正文部分，你可以在这里撰写内容。</p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><ul><li>列表项 1</li><li>列表项 2</li></ul><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>这是一些代码示例：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, Hexo!&quot;</span>)</span><br></pre></td></tr></table></figure><blockquote><p>这是一个引用示例。</p></blockquote><p><strong>加粗文本</strong> 和 <em>斜体文本</em> 示例。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 示例 </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>入手一台新的VPS后该如何进行初步的配置</title>
       <link href="/2025/06/01/VPS/"/>
       <url>/2025/06/01/VPS/</url>
@@ -17,7 +44,7 @@
     
     
     <entry>
-      <title>代码演示</title>
+      <title>Test</title>
       <link href="/2025/05/20/My-New-Test-Post/"/>
       <url>/2025/05/20/My-New-Test-Post/</url>
       
